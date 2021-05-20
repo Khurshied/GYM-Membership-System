@@ -1,6 +1,5 @@
 ﻿
-body
-{
+body {
     background-image: linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
     font-size: .85em;
     font-family: "Segoe UI", Verdana, Helvetica, Sans-Serif;
@@ -106,8 +105,8 @@ h5, h6
 }
 
 body {
-    background:url("../images/bg.png") fixed top center no-repeat;
-    background-size:cover;
+    /*background:url("../images/bg.png") fixed top center no-repeat;*/
+    background-size: cover;
 }
 
 .main-content
